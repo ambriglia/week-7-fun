@@ -1,0 +1,23 @@
+{
+  "name": "week-7-fun",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ambriglia/week-7-fun.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ambriglia/week-7-fun/issues"
+  },
+  "homepage": "https://github.com/ambriglia/week-7-fun#readme",
+  "devDependencies": {
+    "jest": "^27.4.3"
+  }
+}
